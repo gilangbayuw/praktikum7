@@ -107,7 +107,7 @@ main()
  cout << " AxB = " << kali_rekursif(a, b) << endl;
 }
 ```
-**Hasiil**
+**Hasil**
 ![Hasil](https://raw.githubusercontent.com/gilangbayuw/praktikum7/master/ss%20soal2.jpg)
 
 ##soal3.cpp
