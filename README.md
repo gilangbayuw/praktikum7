@@ -57,7 +57,7 @@ return 0;
 }
 ```
 **Hasil**
-![hasil](https://raw.githubusercontent.com/Amirul29/praktikum7/master/soal1.png)
+![hasil](https://raw.githubusercontent.com/gilangbayuw/praktikum7/master/ss%20soal1.jpg)
 
 
 ##Soal2.cpp
@@ -108,7 +108,7 @@ main()
 }
 ```
 **Hasiil**
-![Hasil](https://raw.githubusercontent.com/Amirul29/praktikum7/master/soal2.png)
+![Hasil](https://raw.githubusercontent.com/gilangbayuw/praktikum7/master/ss%20soal2.jpg)
 
 ##soal3.cpp
 **Alur Argoritma**
@@ -154,4 +154,4 @@ int main()
 }
 ```
 **Hasil**
-![hasil](https://raw.githubusercontent.com/Amirul29/praktikum7/master/soal3.png)
+![hasil](https://raw.githubusercontent.com/gilangbayuw/praktikum7/master/ss%20soal3.jpg)
